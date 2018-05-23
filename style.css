@@ -1,0 +1,21 @@
+body {
+    background-color: #3d3c3b;
+}
+h2, h6 {
+    padding-top: 3vh;
+}
+.some-bottom-margin {
+    margin-bottom: 3vh;
+}
+.scheme-1 {
+    color: #000033;
+    background-color: #d1cfca;
+}
+.scheme-2 {
+    color: #0f0f41;
+    background-color: #fffdf7;
+}
+.scheme-3 {
+    color: #0d0d0c;
+    background-color: #92908d;
+}
